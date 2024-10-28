@@ -3,6 +3,8 @@
 ## Description
 This project aims to implement UML and ER diagrams for a hotel management system. The system covers various aspects of hotel operations including staff management, guest reservations, room management, dining services, and parking.
 
+this project was done with my friend [Nazanin](https://github.com/NazaninNiazi)
+
 ## Table of Contents
 1. [Problem Statement](#problem-statement)
 2. [UML Diagrams](#uml-diagrams)
