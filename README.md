@@ -29,8 +29,9 @@ The hotel management system is designed to handle the following functionalities:
 - **Dining Orders**: Guests can order food through the dining areas. External customers can also place orders.
 
 ## UML Diagrams
+![UML](https://github.com/user-attachments/assets/97af10a8-c301-411d-91ce-958c92f01446)
 
-![HotelUML](https://github.com/user-attachments/assets/88692d92-d767-4f62-8eb9-d1284cf2abd9)
+
 
 The project includes UML diagrams to illustrate the structure and relationships within the system:
 - Class Diagram
